@@ -9,7 +9,7 @@
 This project is built with:
 
 - Vite
-- TypeScript
+-javascript
 - React
 - shadcn-ui
 - Tailwind CSS
